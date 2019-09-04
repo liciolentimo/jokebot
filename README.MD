@@ -1,4 +1,4 @@
-# @Jokebot
+# @jokebot
 
 > Simple slackbot built with Node.js and Slackbots.js that tells random Chuck Norris jokes.
 
@@ -23,7 +23,7 @@ npm start
 
 ### Author
 
-Brad Traversy
+Licio Lentimo
 [Licio Lentimo](https://liciolentimo.co.ke/)
 
 ### Version
