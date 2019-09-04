@@ -23,7 +23,6 @@ npm start
 
 ### Author
 
-Licio Lentimo
 [Licio Lentimo](https://liciolentimo.co.ke/)
 
 ### Version
